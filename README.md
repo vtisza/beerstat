@@ -1,1 +1,1 @@
-## Beer drinking habist based on untappd data
+## Beer drinking habits based on untappd data
