@@ -1,1 +1,1 @@
-## Beer drinking habits based on untappd data
+## Beer drinking habits based on untappd data as of 2023.10.04
